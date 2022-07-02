@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### About Me :
 
 My name is Amit Leuva. I am from Ahmedabad, India. I am a full stack developer having 10 years experience. 

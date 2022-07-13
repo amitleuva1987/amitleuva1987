@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitleuva1987&theme=radical)
 ### About Me :
 
 My name is Amit Leuva. I am from Ahmedabad, India. I am a full stack developer having 10 years experience. 
